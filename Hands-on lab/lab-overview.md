@@ -104,6 +104,5 @@ Each tenant will have the following containers:
     - [Task 3: Adjust CPU constraints to improve scale](#task-3-adjust-cpu-constraints-to-improve-scale)
     - [Task 4: Perform a rolling update](#task-4-perform-a-rolling-update)
     - [Task 5: Configure Kubernetes Ingress](#task-5-configure-kubernetes-ingress)
-  - [After the hands-on lab](#after-the-hands-on-lab)
 
 <!-- /TOC -->
