@@ -95,14 +95,14 @@ Each tenant will have the following containers:
     - Task 7: Configure Continuous Delivery to the Kubernetes Cluster
     - Task 8: Review Azure Monitor for Containers
   - Exercise 3: Scale the application and test HA
-    - [Task 1: Increase service instances from the Kubernetes dashboard
-    - [Task 2: Increase service instances beyond available resources
-    - [Task 3: Restart containers and test HA
+    - Task 1: Increase service instances from the Kubernetes dashboard
+    - Task 2: Increase service instances beyond available resources
+    - Task 3: Restart containers and test HA
   - Exercise 4: Working with services and routing application traffic
-    - [Task 1: Scale a service without port constraints
-    - [Task 2: Update an external service to support dynamic discovery with a load balancer
-    - [Task 3: Adjust CPU constraints to improve scale
-    - [Task 4: Perform a rolling update
-    - [Task 5: Configure Kubernetes Ingress
+    - Task 1: Scale a service without port constraints
+    - Task 2: Update an external service to support dynamic discovery with a load balancer
+    - Task 3: Adjust CPU constraints to improve scale
+    - Task 4: Perform a rolling update
+    - Task 5: Configure Kubernetes Ingress
 
 <!-- /TOC -->
