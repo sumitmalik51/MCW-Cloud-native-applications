@@ -12,12 +12,12 @@
  
 4. You can also open the Lab Guide on Seprate full window by selcting the **Arrow** icon in upper right corner.
 
-   ![](media/lab-guide-open.png "Lab Guide")
+   ![](media/labguide-open.png "Lab Guide")
  
 ## Login to Azure Portal
 1. In the JumpVM, click on Azure portal shortcut of Microsoft Edge browser which is created on desktop.
 
-   ![azure portal.](media/azureportal.png)
+   ![azure portal.](media/azure-desktop.png)
    
 2. When you click on Azure portal, edge browser welcome screen will come up, select **Get started**.
 
