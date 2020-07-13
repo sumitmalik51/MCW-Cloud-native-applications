@@ -153,13 +153,13 @@ In this task, you will browse to the web application for testing.
 
 1. From the Azure portal select the resource group you created named fabmedical-SUFFIX.
 
-2. Select the build agent VM named fabmedical-SUFFIX from your list of available resources.
+2. Select the build agent VM named fabmedical from your list of available resources.
 
-   ![In this screenshot of your list of available resources, the first item is selected, which has the following values for Name, Type, and Location: fabmedical-soll (a red arrows points to this name), Virtual machine, and East US 2.](media/image54.png)
+   ![In this screenshot of your list of available resources, the first item is selected, which has the following values for Name, Type, and Location: fabmedical-soll (a red arrows points to this name), Virtual machine, and East US 2.](media/linuxVM.png)
 
 3. From the Virtual Machine blade overview, find the IP address of the VM.
 
-   ![In the Virtual Machine blade, Overview is selected on the left and Public IP address 52.174.141.11 is highlighted on the right.](media/image26.png)
+   ![In the Virtual Machine blade, Overview is selected on the left and Public IP address 52.174.141.11 is highlighted on the right.](media/linuxIP1.png)
 
 4. Test the web application from a browser. Navigate to the web application using your build agent IP address at port 3000.
 
