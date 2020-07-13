@@ -178,7 +178,7 @@ In this task, you will browse to the web application for testing.
    killall node
    ```
 
-### Task 3: Create Docker images
+### Task 3: Create Docker images 
 
 In this task, you will create Docker images for the application --- one for the API application and another for the web application. Each image will be created via Docker commands that rely on a Dockerfile.
 
