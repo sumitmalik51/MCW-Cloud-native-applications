@@ -713,6 +713,7 @@ image and pushes it to your ACR instance automatically.
    `content-web` repository and choose 'Set up Build', after that select **Existing Azure Pipeline YAML file** and then **continue**
 
    ![A screenshot of the content-web repository with an arrow pointed at the Set up Build button](media/hol-2019-10-01_19-50-16.png)
+   
    ![A screenshot of the content-web repository with an arrow pointed at the Set up Build button](media/pipiline.png)
 
 5. Azure DevOps will automatically detect the pipeline YAML you added. You can
