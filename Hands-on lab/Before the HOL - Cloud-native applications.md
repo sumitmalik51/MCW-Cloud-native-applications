@@ -147,7 +147,7 @@ single node.js site into a website with a content API that serves up the speaker
 15. Choose "+ New service connection". Then pick "Docker Registry" from
     the menu.
 
-    ![A screenshot of the Add Docker Registry Service Connection dialog.](media/hol-2019-10-01_20-30-17.png)
+    ![A screenshot of the Add Docker Registry Service Connection dialog.](media/docker.png)
 
 16. Enter the required information using the service principal information you
     created earlier.
@@ -160,7 +160,7 @@ single node.js site into a website with a content API that serves up the speaker
 
     - **Azure Container Registry**: Choose the registry created for you by the ARM deployment.
 
-    ![A screenshot of the Add Docker Registry Service Connection dialog with the values entered as described above.](media/3.png)
+    ![A screenshot of the Add Docker Registry Service Connection dialog with the values entered as described above.](media/dockerregistry.png)
 
 17. Select "OK".
 
