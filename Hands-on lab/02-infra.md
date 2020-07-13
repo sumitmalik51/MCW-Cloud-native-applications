@@ -106,7 +106,7 @@ In this task, you will deploy the API application to the Azure Kubernetes Servic
 
 7. Open the Azure portal in your browser and navigate to your resource group and find your Cosmos DB resource. Select the Cosmos DB resource to view details.
 
-   ![A screenshot of the Azure Portal showing the Cosmos DB among existing resources.](media/Ex2-Task1.9.png)
+   ![A screenshot of the Azure Portal showing the Cosmos DB among existing resources.](media/cosmos.png)
 
 8. Under "Quick Start" select the "Node.js" tab and copy the Node 3.0 connection string.
 
@@ -705,7 +705,7 @@ In this task, you will access and review the various logs and dashboards made av
 
 1. From the Azure Portal, select the resource group you created named fabmedical-SUFFIX, and then select your AKS cluster.
 
-   ![In this screenshot, the resource group was previously selected and the AKS cluster is selected.](media/Ex2-Task8.1.png)
+   ![In this screenshot, the resource group was previously selected and the AKS cluster is selected.](media/task8.png)
 
 2. From the Monitoring blade, select **Insights**.
 
