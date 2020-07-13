@@ -1,4 +1,4 @@
-# Cloud-native applications - Developer edition hands-on lab step-by-step
+# Cloud-native applications - Infrastructure edition hands-on lab step-by-step
 
 ## Abstract and learning objectives
 
