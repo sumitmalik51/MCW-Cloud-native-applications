@@ -146,21 +146,21 @@ single node.js site into a website with a content API that serves up the speaker
 
 15. Choose "+ New service connection". Then pick "Docker Registry" from
     the menu.
-    
-    ![A screenshot of the Add Docker Registry.](media/Docker-registry.png)
-       
-16.Enter the required information using the service principal information you created earlier.
 
-   - **Registry type**: Others
+    ![A screenshot of the Add Docker Registry Service Connection dialog.](media/hol-2019-10-01_20-30-17.png)
 
-   - **Connection name**: Fabmedical ACR
+16. Enter the required information using the service principal information you
+    created earlier.
 
-   - **Docker registry**: **https://**(Login server of your azure container registry)
+    - **Environment**: Azure Container Registry
 
-   - **Docker ID**: Username of your container registry
-    
-   - **Password**: Enter Password of your container registry, you can get password in Access keys.
-    ![](media/docker_regist.png)
+    - **Connection name**: Fabmedical ACR
+
+    - **Azure Subscription**: Choose the subscription you are using for the lab.
+
+    - **Azure Container Registry**: Choose the registry created for you by the ARM deployment.
+
+    ![A screenshot of the Add Docker Registry Service Connection dialog with the values entered as described above.](media/3.png)
 
 17. Select "OK".
 
@@ -171,9 +171,9 @@ single node.js site into a website with a content API that serves up the speaker
 
     - Enter "content-web" as the repository name.
 
-    - Once the project is created select "Generate Git credentials".
+    - Once Azure DevOps creates the repository, Click on **Clone** button and  select "Generate Git credentials".
 
-      ![Generate Git Credentials](media/b4-image50.png)
+      ![Generate Git Credentials](media/4.png)
 
 19. Copy the Personal Access Token and save it for later steps
 
@@ -268,8 +268,8 @@ with them on the build agent.
    git config --global credential.helper cache
    ```
 
-3. Visit the `content-web` repository in Azure DevOps and select "Clone" in the
-   right corner.
+3. Visit the `content-web` repository in Azure DevOps and Click on  "Clone" button in the
+   right corner and copy the HTTPS command line.
 
    ![This is a screenshot of the content-web repository page with the Clone button indicated.](media/b4-image55.png)
 
