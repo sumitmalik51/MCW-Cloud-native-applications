@@ -243,10 +243,10 @@ VM.
 
 2. In the cloud shell output, paste  the ssh key that you copied earlier enter **yes** when prompted.
 
-   <kbd>![](media/agent_1.png)</kbd></br></br>
+   <kbd>![](media/ssh1.png)</kbd></br></br>
 
 3. Enter the Buid Agent VM password provided in environment details, you will be connected to Build Agent VM:
-   <kbd>![](media/agent_2.png)</kbd></br></br>
+   <kbd>![](media/buildpassword.png)</kbd></br></br>
 
 ### Task 5: Clone Repositories to the Build Agent
 
