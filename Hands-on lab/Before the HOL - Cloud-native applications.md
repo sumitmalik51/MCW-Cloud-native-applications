@@ -5,7 +5,7 @@ You should follow all of the steps provided in this section _before_ taking part
 
 ### Task 1: Setup Azure Cloud Shell
 
-1. Open cloud shell by selecting the cloud shell icon in the menu bar.
+1. Open cloud shell by selecting the cloud shell icon in Azure portal menu bar.
 
    ![The cloud shell icon is highlighted on the menu bar.](media/b4-image35.png)
 
