@@ -57,15 +57,15 @@ single node.js site into a website with a content API that serves up the speaker
 2. Navigate to FabMedical source code folder and list the contents.
 
    ```bash
-   cd MCW-Cloud-native-applications/Hands-on/lab/lab-files/developer/
-   ll
+   cd './MCW-Cloud-native-applications/Hands-on lab/lab-files/developer/'
+   ls
    ```
 
    > **Important note**: If you will be taking the Infrastructure edition of the lab, instead of using the above instructions, type the following ones:
    >
    > ```bash
    > cd MCW-Cloud-native-applications/Hands-on\ lab/lab-files/infrastructure/
-   > ll
+   > ls
    > ```
    >
    > This will take you to the version of the starter files that will be used by that edition of the lab.
@@ -160,7 +160,7 @@ single node.js site into a website with a content API that serves up the speaker
 
     - **Azure Container Registry**: Choose the registry created for you by the ARM deployment.
 
-    ![A screenshot of the Add Docker Registry Service Connection dialog with the values entered as described above.](media/dockerregistry.png)
+    ![A screenshot of the Add Docker Registry Service Connection dialog with the values entered as described above.](media/3.png)
 
 17. Select "OK".
 
